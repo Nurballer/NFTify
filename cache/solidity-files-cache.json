@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\FILES\\VS CODE\\Blockchain Technologies\\ASS3\\contracts\\Lock.sol": {
+      "lastModificationDate": 1738863660891,
+      "contentHash": "8b97cd74e9f3da53bd62e7d4ff9d4fca",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "D:\\FILES\\VS CODE\\Blockchain Technologies\\ASS3\\contracts\\MusicNFT.sol": {
+      "lastModificationDate": 1738863843181,
+      "contentHash": "a885054a0863794eb9ea98f0bbb85d35",
+      "sourceName": "contracts/MusicNFT.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "MusicNFT"
+      ]
+    }
+  }
+}
